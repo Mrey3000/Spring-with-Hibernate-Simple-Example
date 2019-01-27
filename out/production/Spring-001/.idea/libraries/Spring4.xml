@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Spring4">
+    <CLASSES>
+      <root url="file://C:/Java/Repository/Spring4.3" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/Java/Repository/Spring4.3" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Java/Repository/Spring4.3" recursive="false" />
+    <jarDirectory url="file://C:/Java/Repository/Spring4.3" recursive="false" type="SOURCES" />
+  </library>
+</component>

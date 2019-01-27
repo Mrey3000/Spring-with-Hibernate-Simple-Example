@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Hibernate3">
+    <CLASSES>
+      <root url="file://C:/Java/Repository/Hibernate3" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://C:/Java/Repository/Hibernate3" recursive="false" />
+  </library>
+</component>

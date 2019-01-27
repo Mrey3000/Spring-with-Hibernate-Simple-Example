@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="JPA">
+    <CLASSES>
+      <root url="file://C:/Java/Repository/JPA" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://C:/Java/Repository/JPA" recursive="false" />
+  </library>
+</component>
